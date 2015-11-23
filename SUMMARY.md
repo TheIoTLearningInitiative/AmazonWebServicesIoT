@@ -4,4 +4,5 @@
 * [Introduction](documentation/Introduction.md)
 * How AWS IoT works
 * IoT devices
+* Device Gateway
 
