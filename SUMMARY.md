@@ -6,4 +6,5 @@
 * IoT devices
 * Device Gateway
 * Rules Engine
+* AWS IoT Device SDK
 
