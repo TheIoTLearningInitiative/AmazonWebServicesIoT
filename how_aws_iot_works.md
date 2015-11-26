@@ -30,4 +30,6 @@ Since protocols can operate either with or without TLS (or SSL), it is necessary
 
 
 The port(s) that are being used by MQTT are:
-the TCP/IP port 1883 is reserved with IANA for use with MQTT. TCP/IP port 8883 is also registered, for using MQTT over SSL.
+* TCP/IP port 1883 is reserved with IANA for use with MQTT. 
+* TCP/IP port 8883 is also registered, for using MQTT over SSL.
+
