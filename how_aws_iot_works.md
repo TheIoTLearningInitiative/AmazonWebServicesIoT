@@ -21,5 +21,7 @@ AWS IoT help us to connect things / devices to the AWS cloud and also with anoth
 
 [The TLS protocol allows client-server applications to communicate across a network in a way designed to prevent eavesdropping and tampering.
 
-Since protocols can operate either with or without TLS (or SSL), it is necessary for the client to indicate to the server the setup of a TLS connection. There are two main ways of achieving this. One option is to use a different port number for TLS connections (for example, port 443 for HTTPS). The other is for the client to use a protocol-specific mechanism (for example, STARTTLS for mail and news protocols) to request that the server switch the connection to TLS.](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+Since protocols can operate either with or without TLS (or SSL), it is necessary for the client to indicate to the server the setup of a TLS connection. There are two main ways of achieving this. One option is to use a different port number for TLS connections (for example, port 443 for HTTPS). The other is for the client to use a protocol-specific mechanism (for example, STARTTLS for mail and news protocols) to request that the server switch the connection to TLS.
+](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+
 
