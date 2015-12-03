@@ -33,3 +33,5 @@ The [port(s)](https://en.wikipedia.org/wiki/Port_(computer_networking) that are 
 * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) port 1883 is reserved with IANA for use with MQTT. 
 * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) port 8883 is also registered, for using MQTT over SSL.
 
+
+More information can be read it **[here](http://docs.aws.amazon.com/iot/latest/developerguide/aws-iot-how-it-works.html)**
