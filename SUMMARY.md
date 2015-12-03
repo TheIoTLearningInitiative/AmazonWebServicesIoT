@@ -7,4 +7,5 @@
 * [AWS IoT Components](aws_iot_components.md)
 * AWS IoT Device SDK
 * Rules Engine
+* Device Gateway
 
