@@ -1,6 +1,6 @@
 # AWS IoT Components
 
-**Message broker:** Provides a secure mechanism for Iot devices and IoT applications to publish and receive messages from each other. You can use the MQTT protocol to publish and subscribe. You can use the HTTP REST interface to publish.
+**Message broker:** Provides a secure mechanism for Iot devices and IoT applications to publish and receive messages from each other. You can use the [MQTT](http://mqtt.org/faq) protocol to publish and subscribe. You can use the [HTTP REST](https://en.wikipedia.org/wiki/Representational_state_transfer) interface to publish.
 
 **Rules engine:** Provides message processing and integration with other AWS services. You can use a SQL-based language to select data from message payloads, process the data, and send the data to other services, such as Amazon S3, Amazon DynamoDB, and AWS Lambda. You can also use the message broker to republish messages to other subscribers.
 
