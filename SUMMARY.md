@@ -9,5 +9,5 @@
 * AWS IoT Device SDK
 * Rules Engine
 * [Lesson 1: Creating an AWS account](lesson_1_creating_an_aws_account.md)
-* Lesson 2: Explore the AWS Console
+* [Lesson 2: Explore the AWS Console](lesson_2_explore_the_aws_console.md)
 
