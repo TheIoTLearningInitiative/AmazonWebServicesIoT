@@ -76,3 +76,9 @@ Please click on the **Continue** button.
 **Support Plan**, Amazon have 4 different support plans for this tutorial select the Basic (free) option.
 
 ![](7.jpg)
+
+Click on the **Continue** button.
+
+
+
+
