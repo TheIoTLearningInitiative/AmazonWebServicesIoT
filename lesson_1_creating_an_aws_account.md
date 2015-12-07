@@ -30,3 +30,15 @@ Click on the Button with the legend: **Create account**
 
 
 Note: If you have an account for [amazon.com](https://amazon.com) you can use it.
+
+
+
+---
+
+
+
+Fill up the Contact information, you need to select if the account will be for your Company or for your personal use, in this example i will create an account for a personal use.
+
+After you fill all the fields, click on the **Create Account and Continue** button.
+![](3.jpg)
+
