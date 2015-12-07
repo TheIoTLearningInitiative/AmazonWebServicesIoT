@@ -22,19 +22,12 @@ Access keys consist of an access key ID and secret access key, which are used to
     ![](12.jpg)
 6. Click on the Create button.
 7. Click on the Show User Security Credentials
-
-
-5.To see your access key, choose Show User Security Credentials. Your credentials will look something like this: 
-
+Your credentials will look something like this: 
 
 •Access Key ID: AKIAIOSFODNN7EXAMPLE
-
-
 •Secret Access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
-
-
-6.Choose Download Credentials, and store the keys in a secure location. 
+8.Choose Download Credentials, and store the keys in a secure location. 
 
 Your secret key will no longer be available through the AWS Management Console; you will have the only copy. Keep it confidential in order to protect your account, and never email it. Do not share it outside your organization, even if an inquiry appears to come from AWS or Amazon.com. No one who legitimately represents Amazon will ever ask you for your secret key. 
 
