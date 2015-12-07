@@ -11,8 +11,7 @@
 **Internet of Things (IoT)** are connected devices, applications, or physical objects that are supported by your cloud application. On the AWS IoT technology, Amazon includes the Registry and Device Shadows, with this options you can register any Thing you wish to represent in the cloud with a name, some attributes, and a persistent virtual 'shadow'.
 
 **The Registry: **You can use thing attributes to describe, identity the capabilities of your device. For example, you can describe whether a sensor reports temperature, and if the data are Fahrenheit or Celsius. You can also use attributes to search/filter within a list of things.
-
-The Registry lets you store attributes at no additional charge, and metadata in the Registry does not expire as long as you access or update your Registry entry at least once every 7 years.
+The Registry lets you **store attributes at no additional charge**, and metadata in the Registry does not expire as long as you access or update your Registry entry at least once every 7 years.
 
 Click [here](https://docs.aws.amazon.com/console/iot/thing-registry) to learn more about the Registry.
 
