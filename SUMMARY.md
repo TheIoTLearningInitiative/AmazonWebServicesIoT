@@ -13,4 +13,5 @@
 * [Lesson 3: Create an IoT device](lesson_3_create_an_iot_device.md)
 * Lesson 4: Create a Rule
 * Lesson 5: Create a Certificate
+* Lesson 6: Create a Policy
 
