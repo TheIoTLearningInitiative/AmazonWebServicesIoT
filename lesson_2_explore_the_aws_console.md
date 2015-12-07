@@ -16,8 +16,8 @@ Access keys consist of an access key ID and secret access key, which are used to
 
 ![](10.jpg)
 
-
 2. Select the Security Credentials Option.
+3. 
 3. s
 3.Choose the Security Credentials tab and then choose Create Access Key.
 
