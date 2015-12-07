@@ -52,9 +52,20 @@ After you fill all the fields, click on the **Create Account and Continue** butt
 
 ---
 
-**Amazon will contact you please provide a telephone number.**
+**Amazon will contact you, please provide a telephone number.**
 
 
 ![](5.jpg)
 
 
+
+
+---
+
+After you receive the call from Amazon, please type the PIN number on your telephone.
+**Note: This is an example the PIN number will be different.**
+
+![](6.jpg)
+
+
+Please click on the **Continue** button.
