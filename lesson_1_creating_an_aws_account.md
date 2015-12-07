@@ -81,4 +81,10 @@ Click on the **Continue** button.
 
 
 
+---
+
+Just click on the Sign In to the console button and you can use the AWS Console.
+
+![](8.jpg)
+
 
