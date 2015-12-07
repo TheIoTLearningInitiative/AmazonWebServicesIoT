@@ -1,27 +1,20 @@
 # Lesson 2: Explore the AWS Console
 
-After you complete the Lesson 1: Creating an AWS Account, you can use all the Amazon Web Services available:
+**After you complete the Lesson 1: Creating an AWS Account**, you can use all the Amazon Web Services available:
 
 ![](9.jpg)
 
 
 
-Create your access key ID and secret access key
+### **Exercise 1: Create your access key ID and secret access key**
+
 
 Access keys consist of an access key ID and secret access key, which are used to sign programmatic requests that you make to AWS. If you don't have access keys, you can create them by using the AWS Management Console. We recommend that you use IAM access keys instead of AWS root account access keys. IAM lets you securely control access to AWS services and resources in your AWS account.
 
 
-Note
+1.Choose your AWS user name.
 
-To create access keys, you must have permissions to perform the required IAM actions. For more information, see Granting IAM User Permission to Manage Password Policy and Credentials in the IAM User Guide.
-
-1.Open the IAM console.
-
-
-2.In the navigation pane, choose Users.
-
-
-3.Choose your IAM user name (not the check box).
+![](10.jpg)
 
 
 4.Choose the Security Credentials tab and then choose Create Access Key.
