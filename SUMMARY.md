@@ -10,5 +10,5 @@
 * Rules Engine
 * [Lesson 1: Creating an AWS account](lesson_1_creating_an_aws_account.md)
 * [Lesson 2: Explore the AWS Console](lesson_2_explore_the_aws_console.md)
-* Lesson 3: Create an IoT device
+* [Lesson 3: Create an IoT device](lesson_3_create_an_iot_device.md)
 
