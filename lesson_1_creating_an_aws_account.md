@@ -69,3 +69,10 @@ After you receive the call from Amazon, please type the PIN number on your telep
 
 
 Please click on the **Continue** button.
+
+
+---
+
+**Support Plan**, Amazon have 4 different support plans for this tutorial select the Basic (free) option.
+
+![](7.jpg)
