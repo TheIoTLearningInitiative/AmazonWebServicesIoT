@@ -8,5 +8,5 @@
 * [Device Gateway](device_gateway.md)
 * AWS IoT Device SDK
 * Rules Engine
-* Lesson 1: Creating an AWS account
+* [Lesson 1: Creating an AWS account](lesson_1_creating_an_aws_account.md)
 
