@@ -13,7 +13,9 @@ Access keys consist of an access key ID and secret access key, which are used to
 
 
 1. Choose your AWS user name.
+    
     ![](10.jpg)
+
 2. Select the Security Credentials Option.
 3. Click on the Get Started with IAM Users button.
     ![](11.jpg)
