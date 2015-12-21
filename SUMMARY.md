@@ -12,6 +12,6 @@
 * [Lesson 2: Explore the AWS Console](lesson_2_explore_the_aws_console.md)
 * [Lesson 3: Create an IoT device](lesson_3_create_an_iot_device.md)
 * [Lesson 4: Create a Certificate](lesson_4_create_a_certificate.md)
-* [Lesson 4: Create a Rule](lesson_5_testing_comm.md)
+* [Lesson 5: Testing the Comunication Edison to AWS](lesson_5_testing_comm.md)
 * [Lesson 6: Create a Policy](lesson_5_create_a_policy.md)
 
