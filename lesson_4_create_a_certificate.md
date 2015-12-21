@@ -28,3 +28,5 @@ After you confirm that you have the 3 files (one certificate, one public key and
 
 ![](25.jpg)
 
+The wizard will display an important information, on the left side,  please store this information in a file, we can check this information on the interface later but will be better if you store it.
+
