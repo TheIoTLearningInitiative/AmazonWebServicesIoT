@@ -6,5 +6,7 @@ Return to your Amazon account and select the AWS IoT icon, after that select the
 
 ![](29.jpg)
 
+Note: If you are having issues please verify that you are using the information that is inside of the blue square in your code. The Name, rest API endpoint, MQQT topic needs to be the same.
 
+Another important information are teh certificates, that you need to use to establish the communication with the AWS infrastructure 
 
