@@ -23,7 +23,7 @@ This is the wizard that we must follow to create an IoT Device on the AWS IoT Co
 
 Type the name of our IoT device and please, click on the **Create** Button 
 
-![](17.jpg)
+
 
 
 You will see a new element (square) called EdisonLab on the Panel.
