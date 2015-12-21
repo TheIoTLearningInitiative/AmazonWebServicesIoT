@@ -28,6 +28,6 @@ Type the name of our IoT device and please, click on the **Create** Button
 
 You will see a new element (square) called EdisonLab on the Panel.
 
-
+![](18.jpg)
 
 Please , continue with the Lesson 4 to create the certificates for this IoT device.
