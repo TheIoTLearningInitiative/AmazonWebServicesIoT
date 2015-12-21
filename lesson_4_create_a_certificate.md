@@ -39,3 +39,6 @@ You must see the initial page but now we have 2 squares (the first-one is the Io
 ![](28.jpg)
 
 
+##**NOW its time to configure the Edison, please check the following tutorial to do this... LINK to the tutorial...**
+ 
+
