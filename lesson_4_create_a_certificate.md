@@ -10,7 +10,7 @@ On the left side of the screen you will see this:
 
 ![](22.jpg)
 
-A new panel called **Detail**, please click on the Connect a device button on the **lower left side of the screen** (see the red circle on the image).
+A new panel called **Detail**, please click on the Connect a device button on the **lower left side of the screen**
 
 Now the wizard will display you this options, select the Arduino Yun and click on the button generate certificate and policy.
 
