@@ -26,7 +26,7 @@ Type the name of our IoT device and please, click on the **Create** Button
 ![](17.jpg)
 
 
-You will see a new element (square) called Intel-Edison on the Panel.
+You will see a new element (square) called EdisonLab on the Panel.
 
 ![](18.jpg)
 
