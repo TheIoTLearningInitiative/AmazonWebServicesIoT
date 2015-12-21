@@ -20,6 +20,10 @@ The wizard will create the certificate to establish the connection with the amaz
 
 ![](24.jpg)
 
+This is the example / test certificates that I download, please verify that you have 3 similar files.
+
+![](26.jpg)
+
 After you confirm that you have the 3 files (one certificate, one public key and one private key, please click on the button Confirm and start connecting.
 
 ![](25.jpg)
