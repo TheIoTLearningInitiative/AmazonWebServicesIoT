@@ -2,9 +2,9 @@
 
 We must create the certificate to secure the communication between the IoT device and the amazon server(s) that will receive the information that our IoT device will create.
 
-Click on the Intel-Edison name of the IoT device that we create in the last lesson.
+Click on the EdisonLab name of the IoT device that we create in the last lesson.
 
-![](21.jpg)
+![](18.jpg)
 
 On the left side of the screen you will see this:
 
