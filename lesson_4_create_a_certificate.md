@@ -32,3 +32,6 @@ The wizard will display an important information, on the left side,  please stor
 
 ![](27.jpg)
 
+Now click on the return to Thing Detail button.
+
+
