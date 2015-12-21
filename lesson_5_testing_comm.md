@@ -4,7 +4,7 @@ After you finished the configuration of your Edison device, please verify that y
 
 Return to your Amazon account and select the AWS IoT icon, after that select the IoT that we called Edison Lab you must see this information on the Detail page (left side of the screen)
 
-
+![](29.jpg)
 
 
 
