@@ -1,2 +1,4 @@
-# Lesson 4: Create a Rule
+# Lesson 5: Testing the Comunication Edison to AWS infrastructure.
+
+
 
