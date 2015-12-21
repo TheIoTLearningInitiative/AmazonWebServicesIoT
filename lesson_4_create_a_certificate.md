@@ -8,7 +8,7 @@ Click on the EdisonLab name of the IoT device that we create in the last lesson.
 
 On the left side of the screen you will see this:
 
-
+![](22.jpg)
 
 A new panel called **Detail**, please click on the Connect a device button on the **lower left side of the screen** (see the red circle on the image).
 
