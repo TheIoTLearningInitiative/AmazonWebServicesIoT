@@ -17,6 +17,6 @@ You will see the Welcome page from the AWS IoT page, Click on the **Get Started*
 ![](15.jpg)
 
 
-This is the wizard t hat we must follow to create an IoT Device on the AWS IoT Console.
+This is the wizard that we must follow to create an IoT Device on the AWS IoT Console.
 
 ![](16.jpg)
