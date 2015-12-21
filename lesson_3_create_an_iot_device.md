@@ -30,3 +30,4 @@ You will see a new element (square) called Intel-Edison on the Panel.
 
 ![](18.jpg)
 
+Please , continue with the Lesson 5 to create the certificates for this IoT device.
