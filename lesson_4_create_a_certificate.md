@@ -36,6 +36,6 @@ Now click on the return to Thing Detail button.
 
 You must see the initial page but now we have 2 squares (the first-one is the IoT device, the second-one its the Policy of that device and the third-one, its the certificates of the device)
 
-
+![](28.jpg)
 
 
