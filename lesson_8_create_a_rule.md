@@ -19,6 +19,17 @@ Now you just need to complete the following information:
 * ![](42.jpg)
 
 * Condition, for this test we will leave it, blank we will catch and store all the messages.
-* 
 
 ![](41.jpg)
+
+Now in the Choose and action filed select **Insert message into a database table (Dynamo DB)**
+On the Table name field sleect the name of the table that we create on the Lesson 7, EdisonResultsTable
+
+Hash key Value
+
+Range key value
+
+
+Payload field leave it blank we need all the payload to understand the information that we are sending from the Edison.
+
+
