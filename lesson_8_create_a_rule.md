@@ -46,4 +46,9 @@ Now click on the Add Action button (blue square) and after click on the Create b
 
 ![](44.jpg)
 
+Return to the Dynamo DB module and check your table you must see the information that you are sending from the Edison sensor:
+
+![](45.jpg)
+
+Also, you can check one of the registries click on the EdsionLab hyperlink, expand all the information and you will see the following information:
 
