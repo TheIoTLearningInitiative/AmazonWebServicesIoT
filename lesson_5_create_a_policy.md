@@ -19,11 +19,13 @@ Effect must be set to "Allow" or "Deny", in our case is the last line on the cod
 
 Action must be set to "iot":**"operation-name"** where "operation-name" is one of the following:
 
-* "iot:Publish" - MQTT publish.
-* "iot:Subscribe" - MQTT subscribe.
-* "iot:UpdateThingShadow" - Update a thing shadow.
-* "iot:GetThingShadow" - Retrieve a thing shadow.
-* "iot:DeleteThingShadow - Delete a thing shadow.
+* **"iot:Publish"** - MQTT publish.
+* **"iot:Subscribe"** - MQTT subscribe.
+* **"iot:UpdateThingShadow"** - Update a thing shadow.
+* **"iot:GetThingShadow"** - Retrieve a thing shadow.
+* **"iot:DeleteThingShadow** - Delete a thing shadow.
+
+In our case we are using ***** this character allows all the operations.
 
 Resource
 Must be set to one of the following:
