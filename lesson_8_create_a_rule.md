@@ -25,7 +25,7 @@ Now you just need to complete the following information:
 Now in the Choose and action filed select **Insert message into a database table (Dynamo DB)**
 On the Table name field sleect the name of the table that we create on the Lesson 7, EdisonResultsTable
 
-Hash key Value type ${topic(2)}
+Hash key Value type ${topic(3)}
 
 Range key value type ${timestamp()}
 
