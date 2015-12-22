@@ -14,10 +14,11 @@ The policy provide authorization to the IoT devices, with the policies you can a
 
 In our case, on the picture we can see Policy Document this is the code that AWS create for this policy, the components of the EdisonLab-Policy are:
 
-Version "2012-10-17"
-Effect must be set to "Allow" or "Deny", in our case is the last line on the code and the value its "Allow"
+**Version** "2012-10-17"
 
-Action must be set to "iot":**"operation-name"** where "operation-name" is one of the following:
+**Effect** must be set to "Allow" or "Deny", in our case is the last line on the code and the value its "Allow"
+
+**Action** must be set to "iot":**"operation-name"** where "operation-name" is one of the following:
 
 * **"iot:Publish"** - MQTT publish.
 * **"iot:Subscribe"** - MQTT subscribe.
@@ -25,7 +26,7 @@ Action must be set to "iot":**"operation-name"** where "operation-name" is one o
 * **"iot:GetThingShadow"** - Retrieve a thing shadow.
 * **"iot:DeleteThingShadow** - Delete a thing shadow.
 
-In our case we are using ***** this character allows all the operations.
+In our case we are using asterisk (*) to allow all the operations.
 
 Resource
 Must be set to one of the following:
