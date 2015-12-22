@@ -1,2 +1,2 @@
-# Lesson 6: Create a Policy
+# Lesson 6: Review the Policy
 
