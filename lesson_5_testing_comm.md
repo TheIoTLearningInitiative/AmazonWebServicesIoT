@@ -14,4 +14,4 @@ Another important information are the certificates, that you need to use to esta
 
 If you are having issues to communicate your device with the Amazon infrastructure please check this link http://docs.aws.amazon.com/iot/latest/developerguide/diagnosing-connectivity-issues.html, remember that the CA.pem certificate needs to be downloaded from here: https://www.symantec.com/content/en/us/enterprise/verisign/roots/VeriSign-Class%203-Public-Primary-Certification-Authority-G5.pem
 
-The cert.pem and privateKey.pem are the certificates that you download on the Lesson 3.
+The cert.pem and privateKey.pem are the certificates that you download on the Lesson 4.
