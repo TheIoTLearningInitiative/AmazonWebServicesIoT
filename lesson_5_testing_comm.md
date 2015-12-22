@@ -22,3 +22,13 @@ The cert.pem and privateKey.pem are the certificates that you download on the Le
 
 You can check the data that your Edison is sending to AWS on the details page:
 
+Check the last update and shadow status information on the page (Green circles)
+
+![](31.jpg)
+
+You can also check the information that your IoT device is sending to amazon in this case Edison is sending 3 values , you can see the data on the orange circle.
+
+* gas with a value of 29.5
+* windowOpen with a value of false
+* hardwareId with the value of Edison_PYMELab
+
