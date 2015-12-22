@@ -28,17 +28,13 @@ In our case, on the picture we can see Policy Document this is the code that AWS
 
 In our case we are using asterisk (*) to allow all the operations.
 
-Resource
-Must be set to one of the following:
+**Resource** must be set to one of the following:
 
-Client - arn:aws:iot:<region>:<accountId>:client/<clientId>
+* Client - arn:aws:iot:<region>:<accountId>:client/<clientId>
+* Topic ARN - arn:aws:iot:<region>:<accountId>:topic/<topicName>
+* Topic filter ARN - arn:aws:iot:<region>:<accountId>:topicfilter/<topicFilter>
 
-Topic ARN - arn:aws:iot:<region>:<accountId>:topic/<topicName>
-
-Topic filter ARN - arn:aws:iot:<region>:<accountId>:topicfilter/<topicFilter>
-
-Connect Policy Examples
-
+In our case we are using asterisk (*) to allow all the resources.
 
 
 You can read more about AWS policies here:
