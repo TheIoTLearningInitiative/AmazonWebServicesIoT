@@ -32,3 +32,10 @@ You can also check the information that your IoT device is sending to amazon in 
 * windowOpen with a value of false
 * hardwareId with the value of Edison_PYMELab
 
+Each service in Amazon have a cost you can check the cost associated with the services) that you are using the option Billing & Cost Management located under your account name (left side of the screen on the top)
+
+![](32.jpg)
+
+You will see the detail of each service that you are using and the cost.
+
+![](50.jpg)
