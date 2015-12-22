@@ -14,5 +14,5 @@
 * [Lesson 4: Create a Certificate](lesson_4_create_a_certificate.md)
 * [Lesson 5: Testing the Comunication Edison to AWS](lesson_5_testing_comm.md)
 * [Lesson 6: Review the Policy](lesson_5_create_a_policy.md)
-* Lesson 7: Creating a Table to store our results.
+* [Lesson 7: Creating a Table to store our results.](lesson_7_creating_a_table_to_store_our_results.md)
 
