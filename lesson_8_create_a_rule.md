@@ -35,7 +35,9 @@ Payload field leave it blank we need all the payload to understand the informati
 
 In the Role name click on the create a new role link, this will help you to create a role in IAM.
 
-Just check the name that Amazon will assing to teh role and clik in the buton Allow, in this case the IAM Role is called aws_iot_dynamoDB
+Just check the name that Amazon will assing to teh role and clik in the buton Allow, in this case the IAM Role is called aws_iot_dynamoDB 
+
+#Note : If you cant see information on the database, please review the role aws_iot_dynamoDB and the permission that this role have on the IAM module.
 
 ![](43.jpg)
 
