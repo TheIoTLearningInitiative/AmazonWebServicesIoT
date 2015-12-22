@@ -52,3 +52,9 @@ Return to the Dynamo DB module and check your table you must see the information
 
 Also, you can check one of the registries click on the EdsionLab hyperlink, expand all the information and you will see the following information:
 
+![](46.jpg)
+
+
+We are receiving the device string from the value number 2 of the ?
+the time stamp is the value when the message arrives to AWS
+The payload is all the information that we send from the Edison sensor to AWS this example includes the clientToken information EdisonLab-22063, gas information with the value 25 and the hardwareID that is Edison_PYMELab  
