@@ -39,3 +39,4 @@ Each service in Amazon have a cost you can check the cost associated with the se
 You will see the detail of each service that you are using and the cost.
 
 ![](50.jpg)
+
