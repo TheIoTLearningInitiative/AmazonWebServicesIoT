@@ -6,3 +6,22 @@ Dynamo DB its a NoSQL database that you can use to store most of the information
 
 If you want to know more about the Dynamo DB service go here: https://aws.amazon.com/dynamodb/
 
+Please return to the Amazon console and select the service Dynamo DB, its under **Databases**:
+
+![](35.jpg)
+
+You will see the Dashboard of the Dynamo DB service, please click on the **Create table **button:
+
+![](36.jpg)
+
+The wizard top create a table on the Dynamo DB service will start, provide the Table name, Primary key and also select the Add sort key option, to create the Timestamp field.
+
+![](37.jpg)
+
+Now click on the **Create** button.
+
+The table EdisionResultsTable will be created in the Dynamo DB service.
+
+![](38.jpg)
+
+This finish the Dynamo DB Lesson.
