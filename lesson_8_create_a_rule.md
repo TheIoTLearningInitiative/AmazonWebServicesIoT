@@ -14,7 +14,7 @@ Now you just need to complete the following information:
 * Description, is optional you can type a description of the rule.
 * Rule query statement cant be modified.
 * Attribute, its the attribute that we can catch from the device in our case we will catch all the information we will use an asterisk (*) to indicate that we need all the information. 
-* Topic Filter: We must use the topic filter that our Edison sensor is using in my case its: **$aws/things/EdisonLab/shadow/update**, this information can be extracted from the EdisonLab resouce on the Details page under the MQTT topic.
+* Topic Filter: We must use the topic filter that our Edison sensor is using in my case its: **$aws/things/EdisonLab/shadow/update**, this information can be extracted from the EdisonLab resource on the Details page under the MQTT topic.
 
 * ![](42.jpg)
 
