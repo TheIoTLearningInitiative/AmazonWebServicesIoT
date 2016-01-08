@@ -65,6 +65,8 @@ On the amazon console you can check the role on the IAM option:
 
  Under Roles, you will see the IOTrole that we create with the last command:
  
+ ![](56.jpg)
+ 
  
  
  
