@@ -72,15 +72,26 @@ On the amazon console you can check the role on the IAM option:
     $ aws iam create-policy --policy-name IOTpolicy --policy-document file:///root/policy.json
 
 The following is an example policy document that grants AWS IoT administrator access to DynamoDB:
-{
-    "Version": "2012-10-17",
-    "Statement": [{
-        "Effect": "Allow",
-        "Action": "dynamodb:*",
-        "Resource": "*"
-    }]
-}
-Note the ARN of the policy in the command output.
+
+    {
+        "Version": "2012-10-17",
+        "Statement": [{
+            "Effect": "Allow",
+            "Action": "dynamodb:*",
+            "Resource": "*"
+        }]
+    }
+
+You must see this:
+
+![](57.jpg)
+
+Note: In this example the value of the ARN can be checked on the line:
+    
+    "Arn": "arn:aws:iam::362639364520:policy/IOTpolicy",
+
+On the amazon console you can check the role on the IAM option 
+
 
  
  
