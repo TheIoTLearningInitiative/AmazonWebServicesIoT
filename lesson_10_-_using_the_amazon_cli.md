@@ -15,3 +15,23 @@ You must see something like this:
 
 ![](51.jpg)
 
+Execute the command aws configure to set up our credentials
+
+![](52.jpg)
+
+The credentials was created on the lesson 1.
+The default amazon region must be selected from this table:
+
+![](53.jpg)
+
+**Note:** In the example, I'm using US West (Oregon) us-west-2
+
+
+
+---
+
+
+The next step is grant to our CLI user the AWS IoT access.
+
+
+ 
