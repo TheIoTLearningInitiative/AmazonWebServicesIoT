@@ -94,6 +94,9 @@ On the amazon console you can check the role on the IAM option
 
 ![](55.jpg)
 
+Under Policies use the filter and type IOTp
+
+
 
  
  
