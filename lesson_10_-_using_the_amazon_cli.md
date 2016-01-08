@@ -67,6 +67,22 @@ On the amazon console you can check the role on the IAM option:
  
  ![](56.jpg)
  
+ Use the create-policy command to grant AWS IoT access to your AWS resources upon assuming the role:
+ 
+    $ aws iam create-policy --policy-name IOTpolicy --policy-document file:///root/policy.json
+
+The following is an example policy document that grants AWS IoT administrator access to DynamoDB:
+{
+    "Version": "2012-10-17",
+    "Statement": [{
+        "Effect": "Allow",
+        "Action": "dynamodb:*",
+        "Resource": "*"
+    }]
+}
+Note the ARN of the policy in the command output.
+
+ 
  
  
  
