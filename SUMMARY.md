@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+   * Lesson 10 - Using the Amazon CLI
 * [Introduction](documentation/Introduction.md)
 * [How AWS IoT works](how_aws_iot_works.md)
 * [IoT devices](iot_devices.md)
