@@ -92,6 +92,8 @@ Note: In this example the value of the ARN can be checked on the line:
 
 On the amazon console you can check the role on the IAM option 
 
+![](55.jpg)
+
 
  
  
