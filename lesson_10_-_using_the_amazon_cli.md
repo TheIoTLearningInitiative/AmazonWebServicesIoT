@@ -94,11 +94,19 @@ On the amazon console you can check the role on the IAM option
 
 ![](55.jpg)
 
-Under Policies use the filter and type IOTp
+Under Policies use the filter and type **IOTp**, you will see the policy that the code creates.
+
+![](59.jpg)
+
+Use the attach-role-policy command to attach your policy to your role:
+
+    $ aws iam attach-role-policy --role-name IOTrole --policy-arn  "arn:aws:iam::362639364520:policy/IOTpolicy"
+
+Return to the console and check that the IOTpolicy have 1 attached entities
+
+![](60.jpg)
 
 
-
- 
  
  
  
