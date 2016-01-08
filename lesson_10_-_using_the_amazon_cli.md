@@ -60,7 +60,12 @@ In this example the ARN value its **"arn:aws:iam::362639364520:role/IOTrole"**
 
 On the amazon console you can check the role on the IAM option:
 
+![](55.jpg)
 
+
+ Under Roles, you will see the IOTrole that we create with the last command:
+ 
+ 
  
  
  
