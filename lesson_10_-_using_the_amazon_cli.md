@@ -11,3 +11,7 @@ After you complete the installation, just test it:
 
     $ aws help
 
+You must see something like this:
+
+![](51.jpg)
+
