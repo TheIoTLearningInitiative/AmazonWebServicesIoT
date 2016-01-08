@@ -33,5 +33,21 @@ The default amazon region must be selected from this table:
 
 The next step is grant to our CLI user the AWS IoT access.
 
+Use the create-role command to create an IAM role:
+
+    $ aws iam create-role --role-name IOTrole --assume-role-policy-document file:///root/role.json
+
+
+Specify the following trust policy document, which grants AWS IoT permission to assume the role:
+{
+    "Version":"2012-10-17",
+    "Statement":[{
+        "Effect": "Allow",
+        "Principal": {
+            "Service": "iot.amazonaws.com"
+        },
+        "Action": "sts:AssumeRole"
+    }]
+}
 
  
