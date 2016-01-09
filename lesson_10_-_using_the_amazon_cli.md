@@ -107,8 +107,17 @@ Return to the console and check that the IOTpolicy have 1 attached entities
 ![](60.jpg)
 
 
+Now we can proceed and create via the CLI our first IoT on AWS, we just need to execute:
+
+    aws iot create-thing --thing-name MYNEWIOTdevice
+    
+You will see this result:
+
+![](61.jpg)
  
- 
+**Note:** Check the ARN value of the our new IoT device this willbe used later:
+
+**"thingArn": "arn:aws:iot:us-west-2:362639364520:thing/MYNEWIOTdevice",**
  
  
  
