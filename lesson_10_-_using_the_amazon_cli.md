@@ -157,6 +157,8 @@ You will see this result:
     "certificateArn": "arn:aws:iot:us-west-2:362639364520:cert/a2a6bfe011f07e4289e17f494bade5ee9d9ae0deb6cc5a9692247e8274ff022a",
 
 
+We will proceed and attach the certificate to our IoT device:
+
 
 
 
