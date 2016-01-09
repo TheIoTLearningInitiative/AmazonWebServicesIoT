@@ -163,6 +163,12 @@ We will proceed and attach the certificate to our IoT device:
 
 We need to see this result:
 
+![](64.jpg)
+ 
+and also in the graphical interface of the IoT:
 
- 
- 
+![](65.jpg)
+
+
+
+
