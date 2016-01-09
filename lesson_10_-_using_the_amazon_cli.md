@@ -143,7 +143,21 @@ You will see this result:
 
     policyArn": "arn:aws:iot:us-west-2:362639364520:policy/MYNEWIOTpolicy"
     
-    
+
+We will proceed and create the certificates to establish a secure communication between the IoT device and the AWS server.This command generates a certificate, a public key, and a private key.
+
+    aws iot create-keys-and-certificate --set-as-active --certificate-pem-outfile cert.pem --public-key-outfile publicKey.pem --private-key-outfile privateKey.pem
+
+You will see this result:
+
+![](63.jpg)
+
+**Note:** The certificate ARN will be used on our next step please copy the value.
+
+    "certificateArn": "arn:aws:iot:us-west-2:362639364520:cert/a2a6bfe011f07e4289e17f494bade5ee9d9ae0deb6cc5a9692247e8274ff022a",
+
+
+
 
 
  
