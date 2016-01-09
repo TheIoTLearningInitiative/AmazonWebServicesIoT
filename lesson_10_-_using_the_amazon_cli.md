@@ -137,6 +137,13 @@ The IOTpolicy.json file must contain this:
 
 You will see this result:
 
+![](62.jpg)
+
+**Note:** check the **Policy ARN** value:
+
+    policyArn": "arn:aws:iot:us-west-2:362639364520:policy/MYNEWIOTpolicy"
+    
+    
 
 
  
