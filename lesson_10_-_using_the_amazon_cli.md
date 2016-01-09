@@ -122,7 +122,7 @@ You will see this result:
 
 Create a policy for the IoT device.
 
-    aws iot create-policy --policy-name MYNEWIOTpolicy --policy-document IOTpolicy.json
+    aws iot create-policy --policy-name MYNEWIOTpolicy --policy-document file:///root/IOTpolicy.json
     
 The IOTpolicy.json file must contain this:
 
@@ -134,6 +134,9 @@ The IOTpolicy.json file must contain this:
             "Resource": ["*"]
         }]
     }
+
+You will see this result:
+
 
 
  
