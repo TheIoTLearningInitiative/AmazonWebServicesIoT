@@ -119,6 +119,22 @@ You will see this result:
 
 **"thingArn": "arn:aws:iot:us-west-2:362639364520:thing/MYNEWIOTdevice",**
  
- 
+
+Create a policy for the IoT device.
+
+    aws iot create-policy --policy-name MYNEWIOTpolicy --policy-document IOTpolicy.json
+    
+The IOTpolicy.json file must contain this:
+
+    {
+        "Version": "2012-10-17", 
+        "Statement": [{
+            "Effect": "Allow",
+            "Action":["iot:*"],
+            "Resource": ["*"]
+        }]
+    }
+
+
  
  
