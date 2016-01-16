@@ -17,5 +17,5 @@
 * [Lesson 7: Creating a Table to store our results.](lesson_7_creating_a_table_to_store_our_results.md)
 * [Lesson 8: Create a Rule](lesson_8_create_a_rule.md)
 * [Lesson 10 - Using the Amazon CLI](lesson_10_-_using_the_amazon_cli.md)
-* Sandbox
+* [Sandbox](documentation/sandbox.md)
 
