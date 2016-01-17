@@ -19,7 +19,7 @@ Execute the command aws configure to set up our credentials
 
 ![](52.jpg)
 
-The credentials was created on the lesson 1.
+The credentials was created on the lesson 2.
 The default amazon region must be selected from this table:
 
 ![](53.jpg)
