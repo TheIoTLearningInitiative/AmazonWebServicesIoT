@@ -5,8 +5,14 @@ Amazon Web Services IoT
 
 Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to every customer that need this service(s). The Services that AWS provides are:
 
-* Amazon EC2 Amazon Elastic Compute Cloud help you to obtain and boot new service instances, you can create a new Virtual Machine 
-* Amazon S3
+* Amazon EC2 - Amazon Elastic Compute Cloud can help you to obtain and boot new service instances, you can create a new Virtual Machine in seconds scale up and down in resources instantly.
+
+![](S3.jpg)
+
+* Amazon S3 - Amazon Simple Storage Service is a service designed to store any amount of data, this includes different uses cases for example how often do you need to access your data ? Frequently, Standard or Infrequent ?
+ 
+
+
 * Amazon DynamoDB
 * AWS IoT
 * Amazon EC2 Container Registry
