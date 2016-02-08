@@ -29,7 +29,10 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 ![](lambda.jpg)
 
-* Elastic Load Balancing - 
+* Elastic Load Balancing, the service will help to the Amazon customers to distribute the traffic across multiple EC2 instances (Servers running a web application, for example)
+
+
+
 * Amazon CloudFront
 * Amazon Elastic Block Storage
 * Amazon RDS
