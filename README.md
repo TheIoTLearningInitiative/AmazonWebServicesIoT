@@ -32,10 +32,13 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 * Elastic Load Balancing, the service will help to the Amazon customers to distribute the traffic across multiple EC2 instances (Servers running a web application, for example)
 
 
+* Amazon CloudFront will help us to distribute content to our end users via Web or using RTMP.
 
-* Amazon CloudFront
-* Amazon Elastic Block Storage
-* Amazon RDS
+![](cloudfront.jpg)
+
+* Amazon Elastic Block Storage, Amazon EBS gives us the capability that provides persistent storage volumes that you can use with EC2, this storage is replicated to provide High Availability.
+
+* Amazon RDS -
 * Amazon ElastiCache
 * Amazon Redshift
 * AWS Data Pipeline
