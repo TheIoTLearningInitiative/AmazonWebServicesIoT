@@ -19,7 +19,7 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 * AWS IoT - AWS Internet of Things, This module will help us to connect our IoT devices with the AWS infrastructure and use the information that our devices send in any manner this means, we can process the data, stored the data, create a flow based on conditions that we see on the data , store the data and apply machine learning algorithms and big data analysis.
 
- 
+![](AWSIoT.jpg)
 
 * Amazon EC2 Container Registry
 * AWS Lambda
