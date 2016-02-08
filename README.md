@@ -21,8 +21,15 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 ![](AWSIoT.jpg)
 
-* Amazon EC2 Container Registry
-* AWS Lambda
+* Amazon EC2 Container Registry - On this module you can create Docker Containers an linked this container to a service using teh Amazon EC2 service.
+
+![](AWSContainer.jpg)
+
+* AWS Lambda, this service help us to execute our code without provisioning or managing servers, your code will be executed in the Lamda service, all the pipes behind will be transparent for you.
+
+
+
+
 * Elastic Load Balancing
 * Amazon CloudFront
 * Amazon Elastic Block Storage
