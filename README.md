@@ -1,7 +1,7 @@
 Amazon Web Services IoT
 ==
 
-**AWS IoT (Amazon Web Services Internet of Things) ** is the cloud platform that help us to conne![](lambda.jpg)ct **IoT (Internet of Things)** devices, to the Amazon Cloud, faster, securely and also provides an elastic solution for the customer, but what is amazon web services?
+**AWS IoT (Amazon Web Services Internet of Things) ** is the cloud platform that help us to connect **IoT (Internet of Things)** devices, to the Amazon Cloud, faster, securely and also provides an elastic solution for the customer, but what is amazon web services?
 
 Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to every customer that need this service(s). The Services that AWS provides are:
 
@@ -27,10 +27,9 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 * AWS Lambda, this service help us to execute our code without provisioning or managing servers, your code will be executed in the Lamda service, all the pipes behind will be transparent for you.
 
+![](lambda.jpg)
 
-
-
-* Elastic Load Balancing
+* Elastic Load Balancing - 
 * Amazon CloudFront
 * Amazon Elastic Block Storage
 * Amazon RDS
