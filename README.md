@@ -38,8 +38,14 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 * Amazon Elastic Block Storage, Amazon EBS gives us the capability that provides persistent storage volumes that you can use with EC2, this storage is replicated to provide High Availability.
 
-* Amazon RDS -
-* Amazon ElastiCache
+* Amazon RDS -Amazon Relational Database Service offer different engines for the most used relational databases like Amazon Aurora,SQL Server, Oracle, PostgreSQL, MySQL and MariaDB.
+
+![](AWSRDS.jpg)
+
+* Amazon ElastiCache -
+
+
+
 * Amazon Redshift
 * AWS Data Pipeline
 * Amazon Elasticsearch Service
