@@ -42,9 +42,9 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 ![](AWSRDS.jpg)
 
-* Amazon ElastiCache -
+* Amazon ElastiCache offer a web service that scale an in memory cache in the cloud. ElastiCache supports two open-source in-memory caching engines Memcached or Redis
 
-
+![](AWSElasticCache.jpg)
 
 * Amazon Redshift
 * AWS Data Pipeline
