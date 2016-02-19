@@ -1,5 +1,8 @@
 # Lesson 10 - Using the Amazon CLI
 
+
+AWS Command Line Interface (AWS CLI)—Run commands for AWS IoT on Windows, Mac, and Linux. To get started, see the [AWS Command Line Interface User Guide](http://docs.aws.amazon.com/cli/latest/userguide/). For more information about the commands for AWS IoT, see [IoT](http://docs.aws.amazon.com/cli/latest/reference/iot/index.html) in the AWS Command Line Interface Reference.
+
 In our previous sessions (Lesson 3 to 9) we use the graphical interface to create and configure the IoT devices to report to the AWS infrastructure.
 In this lesson we will install the AWS CLI (Client Line Interface to configure our IoT device on the AWS infrastructure)
 
