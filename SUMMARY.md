@@ -6,7 +6,7 @@
 * [IoT devices](iot_devices.md)
 * [AWS IoT Components](aws_iot_components.md)
 * [Device Gateway](device_gateway.md)
-* AWS IoT Device SDK
+* [AWS IoT Device SDK](AWS SDK.md)
 * Rules Engine
 * [Lesson 1: Creating an AWS Account](lesson_1_creating_an_aws_account.md)
 * [Lesson 2: Explore the AWS Console](lesson_2_explore_the_aws_console.md)
