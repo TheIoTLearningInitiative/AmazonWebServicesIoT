@@ -30,6 +30,8 @@ On the action Name, select the action that you want to assign to your IoT device
 
 * iot:DeleteThingShadow:The DeleteThingShadow permission is checked every time a request is made to delete the thing shadow document.
 
+
+
  
 On the Resource you can type the resources that can use this policy using ARNs (Amazon Resource Names its a  unique identifier of the AWS resource) 
 
