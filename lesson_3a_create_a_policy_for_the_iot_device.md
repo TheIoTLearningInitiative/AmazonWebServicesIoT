@@ -26,4 +26,4 @@ On the action Name, select the action that you want to assign to your IoT device
 * The iot:DeleteThingShadow grant just the privilege to ?? the message to you IoT device.
 
  
-On the Resource you can type the resources that can use this policy using ARNs (Amazon Resource Names (ARNs) uniquely identify AWS resource) 
+On the Resource you can type the resources that can use this policy using ARNs (Amazon Resource Names its a  unique identifier of the AWS resource) 
