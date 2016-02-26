@@ -10,3 +10,11 @@ Now select the Icon called **Create a  Policy** you will see this:
 
 
 
+On the combo box Name, just introduce the name of the policy be descriptive.
+
+On the action Name, select the action that you want to assign to your IoT device. the Following Actions can be configured:
+
+![](68.jpg)
+
+* The iot:* grant all the privileges to you IoT device.
+* 
