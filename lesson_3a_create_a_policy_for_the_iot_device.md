@@ -30,3 +30,13 @@ On the Resource you can type the resources that can use this policy using ARNs (
 
 Select the combo box Allow, to allow the communication with the Rules Engine.
 
+Now click on the Add Statement button
+
+![](69.jpg)
+
+With this new capability you can create different permissions and assign to different IoT devices using the ARNs.
+
+![](70.jpg)
+
+Now just click on the Create button and you will see your new policy ready.
+
