@@ -17,4 +17,13 @@ On the action Name, select the action that you want to assign to your IoT device
 ![](68.jpg)
 
 * The iot:* grant all the privileges to you IoT device.
-* 
+* The iot:Publish grant just the privilege to publish the message to you IoT device.
+* The iot:Subscribe grant just the privilege to ?? the message to you IoT device.
+* The iot:Connect grant just the privilege to ?? the message to you IoT device.
+* The iot:Receive grant just the privilege to ?? the message to you IoT device.
+* The iot:UpdateThingShadow grant just the privilege to ?? the message to you IoT device.
+* The iot:GetThingShadow grant just the privilege to ?? the message to you IoT device.
+* The iot:DeleteThingShadow grant just the privilege to ?? the message to you IoT device.
+
+ 
+
