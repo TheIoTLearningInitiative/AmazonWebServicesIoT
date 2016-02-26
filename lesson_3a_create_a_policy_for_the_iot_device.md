@@ -27,3 +27,6 @@ On the action Name, select the action that you want to assign to your IoT device
 
  
 On the Resource you can type the resources that can use this policy using ARNs (Amazon Resource Names its a  unique identifier of the AWS resource) 
+
+Select the combo box Allow, to allow the communication with the Rules Engine.
+
