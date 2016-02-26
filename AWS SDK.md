@@ -8,4 +8,4 @@ AWS IoT provides an SDK written in C language, the Device SDK supports the follo
 * Node.js JavaScript runtime package was developed for rapid prototyping on more powerful embedded platforms that support the [Node.js](https://github.com/aws/aws-iot-device-sdk-js/) package ecosystem.
  
 
-If you want to explore more on this topic or check the complete Amazon documentation.
+If you want to explore more on this topic or check the complete [Amazon documentation](http://docs.aws.amazon.com/iot/latest/developerguide/iot-device-sdk.html).
