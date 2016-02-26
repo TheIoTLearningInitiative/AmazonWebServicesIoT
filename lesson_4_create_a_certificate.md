@@ -29,13 +29,21 @@ By default the certificate its INACTIVE, please select your certificate and acti
     ![](75.jpg)
 
 
+Now repeat this process and select the following options on the Actions button:
+
+* Attach a policy, we assume that you only have one policy please attach that policy to the certificate. Type the name of your policy and AWS will display your options :), Click on the Attach button.
+
+    ![](76.jpg)
+
+* Attach a thing, we assume that you only have one IoT device please attach the device to the certificate.Click on the Attach button.
+
+    ![](77.jpg)
+
+
+This is the result, on the right side you will see the ARN of your certificate and the attached policy and IoT device.
 
 
 
-
-You must see the initial page but now we have 2 squares (the first-one is the IoT device, the second-one its the Policy of that device and the third-one, its the certificates of the device)
-
-![](28.jpg)
 
 
 ##**NOW its time to configure the Edison, please check the following tutorial to do this... LINK to the tutorial...**
