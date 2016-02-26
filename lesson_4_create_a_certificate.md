@@ -40,9 +40,10 @@ Now repeat this process and select the following options on the Actions button:
     ![](77.jpg)
 
 
+
 This is the result, on the right side you will see the ARN of your certificate and the attached policy and IoT device.
 
-
+![](78.jpg)
 
 
 
