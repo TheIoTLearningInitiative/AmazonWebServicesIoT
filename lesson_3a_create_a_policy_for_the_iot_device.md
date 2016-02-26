@@ -40,3 +40,4 @@ With this new capability you can create different permissions and assign to diff
 
 Now just click on the Create button and you will see your new policy ready.
 
+![](71.jpg)
