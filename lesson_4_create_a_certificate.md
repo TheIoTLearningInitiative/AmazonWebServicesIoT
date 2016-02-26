@@ -2,37 +2,36 @@
 
 We must create the certificate to secure the communication between the IoT device and the amazon server(s) that will receive the information that our IoT device will create.
 
-Click on the EdisonLab name of the IoT device that we create in the last lesson.
+Click on the Resource Panel and select the option Create a certificate:
 
-![](18.jpg)
+![](72.jpg)
 
-On the left side of the screen you will see this:
+Just Click on the 1 Click certificate create button.
+AWS will create the certificate to establish the connection with the amazon server and the public and private key. Please download and store it in a safe place we will use it later to configure the Edison device.
 
-![](22.jpg)
-
-A new panel called **Detail**, please click on the Connect a device button on the **lower right side of the screen**
-
-Now the wizard will display you this options, select the Arduino Yun and click on the button generate certificate and policy.
-
-![](23.jpg)
-
-The wizard will create the certificate to establish the connection with the amazon server and the public and private key. Please download and store it in a safe place we will sue it later to configure the Edison device.
-
-![](24.jpg)
+![](73.jpg)
 
 This is the example / test certificates that I download, please verify that you have 3 similar files.
 
 ![](26.jpg)
 
-After you confirm that you have the 3 files (one certificate, one public key and one private key, please click on the button Confirm and start connecting.
+After you confirm that you have the 3 files (one certificate, one public key and one private key, please close the Create Panel.
 
-![](25.jpg)
 
-The wizard will display an important information, on the left side,  please store this information in a file, we can check this information on the interface later but will be better if you store it.
+By default the certificate its INACTIVE, please select your certificate and active it.
 
-![](27.jpg)
+* Select the Certificate
 
-Now click on the return to Thing Detail button.
+    ![](74.jpg)
+
+* Now go to the Actions button and Active it.
+
+    ![](75.jpg)
+
+
+
+
+
 
 You must see the initial page but now we have 2 squares (the first-one is the IoT device, the second-one its the Policy of that device and the third-one, its the certificates of the device)
 
