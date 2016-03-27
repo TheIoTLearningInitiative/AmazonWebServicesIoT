@@ -69,9 +69,10 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 * Amazon Mobile Analytics is a service that lets you simply and cost effectively collect and analyze app usage data.
 
+![](84.jpg)
 
+* Amazon SNS 
 
-* Amazon SNS
 * AWS CodeCommit
 * AWS CodePipeline
 * AWS Key Management Service 
