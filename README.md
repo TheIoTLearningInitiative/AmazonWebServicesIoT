@@ -46,7 +46,10 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 ![](AWSElasticCache.jpg)
 
-* Amazon Redshift
+* Amazon Redshift is a fast, petabyte-scale data warehouse that makes it simple and cost-effective to analyze all your data using your existing business intelligence tools.
+
+
+
 * AWS Data Pipeline
 * Amazon Elasticsearch Service
 * Amazon Cognito
