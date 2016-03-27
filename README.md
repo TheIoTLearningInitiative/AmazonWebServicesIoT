@@ -84,7 +84,13 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 ![](87.jpg)
 
 * AWS Key Management Service 
-* Amazon CloudWatch
+
+
+
+* Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real-time. You can use CloudWatch to collect and track metrics, which are the variables you want to measure for your resources and applications. CloudWatch alarms send notifications or automatically make changes to the resources you are monitoring based on rules that you define.
+
+![](88.jpg)
+
 * AWS Trusted Advisor
 * Amazon API Gateway
 * Amazon AppStream
