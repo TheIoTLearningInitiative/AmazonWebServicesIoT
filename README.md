@@ -56,8 +56,17 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 ![](80.jpg)
 
 * Amazon Elasticsearch Service provides a managed service that makes it easy to deploy, operate, and scale Amazon ES in the AWS cloud. Elasticsearch is a popular open-source search and analytics engine for use cases such as log analytics, real-time application monitoring, and click stream analytics.
-* Amazon Cognito
-* AWS Device Farm
+
+![](81.jpg)
+
+* Amazon Cognito helps you securely store, manage, and sync identities and data across multiple devices, platforms, and applications.
+
+![](82.jpg)
+
+* AWS Device Farm enables you to improve the quality of your Android, iOS, and Fire OS apps by quickly and securely testing them on hundreds of real smart phones, tablets, and other devices in the AWS cloud.
+
+
+
 * Amazon Mobile Analytics
 * Amazon SNS
 * AWS CodeCommit
