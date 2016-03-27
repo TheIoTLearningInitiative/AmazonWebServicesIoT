@@ -71,9 +71,11 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 ![](84.jpg)
 
-* Amazon SNS 
+* Amazon SNS is a web service that enables applications, end-users, and devices to instantly send and receive notifications from the cloud.
 
-* AWS CodeCommit
+![](85.jpg)
+
+* AWS CodeCommit 
 * AWS CodePipeline
 * AWS Key Management Service 
 * Amazon CloudWatch
