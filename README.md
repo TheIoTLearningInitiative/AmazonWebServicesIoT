@@ -75,7 +75,10 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 ![](85.jpg)
 
-* AWS CodeCommit 
+* AWS CodeCommit, this service help us to create secure repositories for sharing your code in the cloud.
+
+![](86.jpg)
+
 * AWS CodePipeline
 * AWS Key Management Service 
 * Amazon CloudWatch
