@@ -65,7 +65,7 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 * AWS Device Farm enables you to improve the quality of your Android, iOS, and Fire OS apps by quickly and securely testing them on hundreds of real smart phones, tablets, and other devices in the AWS cloud.
 
-
+![](83.jpg)
 
 * Amazon Mobile Analytics
 * Amazon SNS
