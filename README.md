@@ -79,7 +79,10 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 ![](86.jpg)
 
-* AWS CodePipeline
+* AWS CodePipeline visualize and automate the different stages of your software release process, and watch your code.
+
+![](87.jpg)
+
 * AWS Key Management Service 
 * Amazon CloudWatch
 * AWS Trusted Advisor
