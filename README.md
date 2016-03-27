@@ -48,10 +48,14 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 * Amazon Redshift is a fast, petabyte-scale data warehouse that makes it simple and cost-effective to analyze all your data using your existing business intelligence tools.
 
+![](79.jpg)
 
 
-* AWS Data Pipeline
-* Amazon Elasticsearch Service
+* AWS Data Pipeline helps you to move, integrate, and process data across AWS compute and storage resources, as well as your on-premises resources. AWS Data Pipeline supports integration of data and activities across multiple AWS regions.
+
+![](80.jpg)
+
+* Amazon Elasticsearch Service provides a managed service that makes it easy to deploy, operate, and scale Amazon ES in the AWS cloud. Elasticsearch is a popular open-source search and analytics engine for use cases such as log analytics, real-time application monitoring, and click stream analytics.
 * Amazon Cognito
 * AWS Device Farm
 * Amazon Mobile Analytics
