@@ -101,11 +101,17 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 * Amazon AppStream, this service help us to stream applications to desktop and mobile devices form the cloud.
 
+![](91.jpg)
+
+
+* Amazon Elastic Transcoder,help us to convert digital media stored in Amazon S3 into the audio and video codecs and the containers required by consumer playback devices.
+
+![](92.jpg)
+
+
+* Amazon SES, its the email service of AWS, this service will help us to send and receive email using a reliable and scalable email platform.
 
 
 
-
-* Amazon Elastic Transcoder
-* Amazon SES
 * Amazon SQS
 * Amazon SWF
