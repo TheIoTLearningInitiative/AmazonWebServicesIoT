@@ -99,7 +99,12 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 ![](90.jpg)
 
-* Amazon AppStream
+* Amazon AppStream, this service help us to stream applications to desktop and mobile devices form the cloud.
+
+
+
+
+
 * Amazon Elastic Transcoder
 * Amazon SES
 * Amazon SQS
