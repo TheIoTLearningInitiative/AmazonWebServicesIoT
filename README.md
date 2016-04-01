@@ -118,3 +118,5 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 ![](94.jpg)
 
 * Amazon SWF, is a workflow service that help you to manage different workflows, SWF execute the workflow consistently and reliable.
+
+![](95.jpg)
