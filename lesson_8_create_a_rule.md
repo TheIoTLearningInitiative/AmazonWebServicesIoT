@@ -55,6 +55,5 @@ Also, you can check one of the registries click on the EdsionLab hyperlink, expa
 ![](46.jpg)
 
 
-We are receiving the device string from the value number 2 of the ?
-the time stamp is the value when the message arrives to AWS
-The payload is all the information that we send from the Edison sensor to AWS this example includes the clientToken information EdisonLab-22063, gas information with the value 25 and the hardwareID that is Edison_PYMELab  
+We are receiving The time stamp is the value when the message arrives to AWS
+The payload is all the information that we send from the Edison sensor to AWS this example includes the clientToken information EdisonLab-22063, gas information with the value 25 and the hardwareID that is Edison_PYMELab.
