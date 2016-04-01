@@ -111,7 +111,10 @@ Amazon Web Services (AWS) was created to expose the Amazon Cloud Services to eve
 
 * Amazon SES, its the email service of AWS, this service will help us to send and receive email using a reliable and scalable email platform.
 
+![](93.jpg)
 
+* Amazon SQS, the AWS message queue service of Amazon.
 
-* Amazon SQS
-* Amazon SWF
+![](94.jpg)
+
+* Amazon SWF, is a workflow service that help you to manage different workflows, SWF execute the workflow consistently and reliable.
